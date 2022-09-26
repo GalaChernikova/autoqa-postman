@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kud87buyuxryx7wu?svg=true)](https://ci.appveyor.com/project/GalaChernikova/autoqa-postman)
